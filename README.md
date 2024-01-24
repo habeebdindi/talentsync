@@ -78,7 +78,6 @@ User Authentication:
   ```
   POST /auth/login
   POST /auth/logout
-  User Authorization:
   ```
 
 Happy blogging with Talentsync! 🚀
