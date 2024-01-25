@@ -48,7 +48,12 @@ To start using the Talentsync API, follow these simple steps:
    npm start
    ```
 
-The API will be accessible at http://localhost:3000 by default.
+The API will be accessible at http://localhost:8000 by default. 
+
+Documentation for the auth routes: http://localhost:8000/api/docs-auth
+
+Documentation for the blog post routes: http://localhost:8000/api/docs
+
 
 
 ## API Endpoints
