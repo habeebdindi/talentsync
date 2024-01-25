@@ -6,7 +6,9 @@
 
 Welcome to Talentsync, a simple RESTful API designed for a modern blogging platform. This API enables users to perform essential CRUD (Create, Read, Update, Delete) operations on blog posts. In addition, Talentsync provides user authentication and authorization mechanisms to ensure secure access and management of user-specific content.
 
-### Features
+
+## Features
+
 Create: Users can create new blog posts, making it easy to share their thoughts and experiences.
 
 Read: Retrieve blog posts to explore a wealth of content from various users.
@@ -18,7 +20,7 @@ Delete: Remove unwanted or outdated blog posts effortlessly.
 Authentication: Securely authenticate users to guarantee controlled access to the api.
 
 
-### Getting Started
+## Getting Started
 
 To start using the Talentsync API, follow these simple steps:
 
@@ -49,7 +51,18 @@ To start using the Talentsync API, follow these simple steps:
 The API will be accessible at http://localhost:3000 by default.
 
 
-### API Endpoints
+## API Endpoints
+
+User Authentication:
+
+  ```
+  POST /auth/signup
+  POST /auth/login
+  ```
+
+![image](https://github.com/habeebdindi/talentsync/assets/76703071/35095ba5-50b8-4dff-8d3a-faa717523101)
+
+Or you can make your request from the documentation directly, see creating a blog post below.
 
 
 Create a Blog Post:
@@ -57,6 +70,11 @@ Create a Blog Post:
   ```
   POST /post
   ```
+
+![image](https://github.com/habeebdindi/talentsync/assets/76703071/2f19d9b3-bed3-481c-9410-534abc17dc44)
+
+![image](https://github.com/habeebdindi/talentsync/assets/76703071/d69e10bb-8d8a-4e20-b063-035c1f4c71ea)
+
 Read Blog Posts:
 
   ```  
@@ -77,14 +95,4 @@ Delete a Blog Post:
   DELETE /post/:postId
   ```
 
-User Authentication:
-
-  ```
-  POST /auth/login
-  POST /auth/logout
-  ```
-
-Happy blogging with Talentsync! 🚀
-
-
-NOTE: THIS IS AN ASSESSMENT PROJECT
+Happy blogging with Talentsync Assessment API! 🚀
