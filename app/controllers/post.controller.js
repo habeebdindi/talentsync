@@ -44,7 +44,7 @@ exports.authorPosts = async (req, res) => {
 	    attributes: {
 		exclude: ['createdAt', 'id', 'author']
 	    },
-	    where: {author},
+	    where: {author: author},
 	    raw: true,
 	});
 	if (!allPosts) {
