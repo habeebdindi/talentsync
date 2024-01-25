@@ -3,6 +3,7 @@ express = require('express');
 
 const app = express();
 const port = process.env.PORT || 8000;
+const db = require('./app/models');
 
 const swaggerUi = require('swagger-ui-express');
 const swaggerFile = require('./documentation/api.docs.json');
@@ -10,6 +11,11 @@ const swaggerAuth = require('./documentation/apiAuth.docs.json');
 
 const cors = require('cors');
 app.use(cors());
+
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+db.sequelize.sync();
 
 app.get('/', (req, res) => {
   res.send('Welcome to Talentsync backend assessment!')
