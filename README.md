@@ -83,11 +83,16 @@ Read Blog Posts:
   GET /post/author/:author
   ```
 
+![image](https://github.com/habeebdindi/talentsync/assets/76703071/ee8533ea-91b5-4c1c-9c55-13e24faeee7a)
+
 Update a Blog Post:
 
   ```
   PUT /post/:postId
   ```
+
+![image](https://github.com/habeebdindi/talentsync/assets/76703071/018dc406-5c8a-4c3b-81f7-445800d4045d)
+
 
 Delete a Blog Post:
 
