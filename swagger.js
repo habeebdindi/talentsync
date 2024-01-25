@@ -14,7 +14,7 @@ const doc = {
     title: 'Talentsync assessment API',
     description: 'API documentation for Talentsync assessment endpoints',
   },
-  host: 'localhost',
+  host: 'localhost:8000',
 };
 
 const postDoc = {...doc, basePath: '/api/v1'};
