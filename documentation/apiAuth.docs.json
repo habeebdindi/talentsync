@@ -5,7 +5,7 @@
     "title": "Talentsync assessment API",
     "description": "API documentation for Talentsync assessment endpoints"
   },
-  "host": "localhost",
+  "host": "localhost:8000",
   "basePath": "/api/auth",
   "schemes": [
     "http"
@@ -63,7 +63,7 @@
                 "email": {
                   "example": "any"
                 },
-                "last_name": {
+                "name": {
                   "example": "any"
                 },
                 "password": {
