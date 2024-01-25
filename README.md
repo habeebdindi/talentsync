@@ -33,7 +33,7 @@ To start using the Talentsync API, follow these simple steps:
 3. Install Dependencies:
 
    ```
-   cd talentsync-api
+   cd talentsync
    npm install
    ```
 
