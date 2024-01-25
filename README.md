@@ -1,10 +1,10 @@
-# Talentsync Blogging Platform API
+# Talentsync Assessment Blogging Platform API
 
 ![image](https://github.com/habeebdindi/talentsync/assets/76703071/dd0fc872-b6bd-482f-94a2-64210c9ce5c7)
 
 ## Overview
 
-Welcome to Talentsync, a simple RESTful API designed for a modern blogging platform. This API enables users to perform essential CRUD (Create, Read, Update, Delete) operations on blog posts. In addition, Talentsync provides user authentication and authorization mechanisms to ensure secure access and management of user-specific content.
+Welcome to Talentsync assessment, a simple RESTful API designed for a modern blogging platform. This API enables users to perform essential CRUD (Create, Read, Update, Delete) operations on blog posts. In addition, Talentsync assessment provides user authentication and authorization mechanisms to ensure secure access and management of user-specific content.
 
 
 ## Features
