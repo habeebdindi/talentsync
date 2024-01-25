@@ -51,6 +51,7 @@ The API will be accessible at http://localhost:3000 by default.
 
 ### API Endpoints
 
+
 Create a Blog Post:
 
   ```
