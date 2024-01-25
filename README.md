@@ -27,7 +27,7 @@ To start using the Talentsync API, follow these simple steps:
 1. Clone the Repository:
 
    ```
-   git clone https://github.com/your-username/talentsync-api.git
+   git clone https://github.com/your-username/talentsync.git
    ```
 
 3. Install Dependencies:
