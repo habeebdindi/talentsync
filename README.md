@@ -95,4 +95,7 @@ Delete a Blog Post:
   DELETE /post/:postId
   ```
 
+![image](https://github.com/habeebdindi/talentsync/assets/76703071/949b92cd-f7d4-4348-8630-58f3019d310d)
+
+
 Happy blogging with Talentsync Assessment API! 🚀
