@@ -52,25 +52,26 @@ The API will be accessible at http://localhost:3000 by default.
 Create a Blog Post:
 
   ```
-  POST /posts
+  POST /post
   ```
 Read Blog Posts:
 
   ```  
   GET /posts
-  GET /posts/:postId
+  GET /post/:postId
+  GET /post/author/:author
   ```
 
 Update a Blog Post:
 
   ```
-  PUT /posts/:postId
+  PUT /post/:postId
   ```
 
 Delete a Blog Post:
 
   ```
-  DELETE /posts/:postId
+  DELETE /post/:postId
   ```
 
 User Authentication:
