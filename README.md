@@ -1,10 +1,10 @@
-# Talentsync Assessment Blogging Platform API
+# bloggy API Blogging Platform API
 
 ![image](https://github.com/habeebdindi/talentsync/assets/76703071/dd0fc872-b6bd-482f-94a2-64210c9ce5c7)
 
 ## Overview
 
-Welcome to Talentsync assessment, a simple RESTful API designed for a modern blogging platform. This API enables users to perform essential CRUD (Create, Read, Update, Delete) operations on blog posts. In addition, Talentsync assessment provides user authentication and authorization mechanisms to ensure secure access and management of user-specific content.
+Welcome to bloggy API, a simple RESTful API designed for a modern blogging platform. This API enables users to perform essential CRUD (Create, Read, Update, Delete) operations on blog posts. In addition, bloggy API provides user authentication and authorization mechanisms to ensure secure access and management of user-specific content.
 
 
 ## Features
@@ -22,7 +22,7 @@ Authentication: Securely authenticate users to guarantee controlled access to th
 
 ## Getting Started
 
-To start using the Talentsync API, follow these simple steps:
+To start using the bloggy API, follow these simple steps:
 
 1. Clone the Repository:
 
@@ -108,4 +108,4 @@ Delete a Blog Post:
 ![image](https://github.com/habeebdindi/talentsync/assets/76703071/949b92cd-f7d4-4348-8630-58f3019d310d)
 
 
-Happy blogging with Talentsync Assessment API! 🚀
+Happy blogging with bloggy API! 🚀
