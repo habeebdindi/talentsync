@@ -1,4 +1,4 @@
-# bloggy API Blogging Platform API
+# bloggy API 
 
 ![image](https://github.com/habeebdindi/talentsync/assets/76703071/dd0fc872-b6bd-482f-94a2-64210c9ce5c7)
 
